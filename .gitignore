@@ -1,6 +1,7 @@
 .DS_Store;
 .idea/
 .vs
+.env
 # User-specific files
 *.rsuser
 *.suo
@@ -386,3 +387,4 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 .vscode/settings.json
+.DS_Store
